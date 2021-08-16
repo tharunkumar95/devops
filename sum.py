@@ -2,5 +2,5 @@ def add(x, y):
     z = x + y
     return z
 
-result = add(4, 5)
+result = add(50, 10)
 print(result)
